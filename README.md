@@ -12,3 +12,5 @@ To run the server put in `npm start` into your terminal
 It will run a server on https://localhost:8080
 
 If you want to host your hack at a different address you will need to let us know so we can whitelist it. If you don't amazon connect will reject your address.
+
+The number to call will be 1-506-906-8261 ext [groupNumber]
